@@ -1,0 +1,15 @@
+C:\Users\eduar\Desktop\edc#\ProyectoPractico2a\bin\Debug\net6.0\ProyectoPractico2a.exe
+C:\Users\eduar\Desktop\edc#\ProyectoPractico2a\bin\Debug\net6.0\ProyectoPractico2a.deps.json
+C:\Users\eduar\Desktop\edc#\ProyectoPractico2a\bin\Debug\net6.0\ProyectoPractico2a.runtimeconfig.json
+C:\Users\eduar\Desktop\edc#\ProyectoPractico2a\bin\Debug\net6.0\ProyectoPractico2a.dll
+C:\Users\eduar\Desktop\edc#\ProyectoPractico2a\bin\Debug\net6.0\ProyectoPractico2a.pdb
+C:\Users\eduar\Desktop\edc#\ProyectoPractico2a\obj\Debug\net6.0\ProyectoPractico2a.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\edc#\ProyectoPractico2a\obj\Debug\net6.0\ProyectoPractico2a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Desktop\edc#\ProyectoPractico2a\obj\Debug\net6.0\ProyectoPractico2a.AssemblyInfoInputs.cache
+C:\Users\eduar\Desktop\edc#\ProyectoPractico2a\obj\Debug\net6.0\ProyectoPractico2a.AssemblyInfo.cs
+C:\Users\eduar\Desktop\edc#\ProyectoPractico2a\obj\Debug\net6.0\ProyectoPractico2a.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\edc#\ProyectoPractico2a\obj\Debug\net6.0\ProyectoPractico2a.dll
+C:\Users\eduar\Desktop\edc#\ProyectoPractico2a\obj\Debug\net6.0\refint\ProyectoPractico2a.dll
+C:\Users\eduar\Desktop\edc#\ProyectoPractico2a\obj\Debug\net6.0\ProyectoPractico2a.pdb
+C:\Users\eduar\Desktop\edc#\ProyectoPractico2a\obj\Debug\net6.0\ProyectoPractico2a.genruntimeconfig.cache
+C:\Users\eduar\Desktop\edc#\ProyectoPractico2a\obj\Debug\net6.0\ref\ProyectoPractico2a.dll
